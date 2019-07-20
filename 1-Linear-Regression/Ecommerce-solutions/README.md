@@ -1,3 +1,5 @@
+##  Ecommerce Solutions  ##
 
-We have some data for housing prices as a csv set, we want to predict housing prices
-and create a model for her that allows to put in a few features of a house and returns back an estimate of what the house would sell. for
+
+Ecommerce company have in-store style and clothing advice sessions.. then want user to go home and order either on a mobile app or website for the clothes they want
+help the company to decide whether to focus their efforts on their mobile app experience or their website..
